@@ -1,0 +1,14 @@
+to run the project, please don't forget to write npm install in the terminal to download all dependecies needed
+
+and please replace the below with your firebase config values
+
+const firebaseConfig = {
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: "",
+  measurementId: "",
+};
+
